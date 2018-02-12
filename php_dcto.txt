@@ -1,0 +1,16 @@
+Arquivos de configuracao:
+
+  Arquivo Config do apache:   HTTPD.CONF
+  Arquivo Config do PHP:      PHP.INI
+
+
+Portas:
+  PHP:    80:Normal   443:Segura
+
+  MYSql:  3306
+
+
+Erro:
+  404 não existe
+
+
